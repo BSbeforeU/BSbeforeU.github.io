@@ -6,7 +6,7 @@ Here is where I showcase my current and recently completed projects.
 N/A
 
 **Recently Completed**
-P1 - 
+<a href="P1.c">P1</a>
 
 ### Jekyll Themes
 
