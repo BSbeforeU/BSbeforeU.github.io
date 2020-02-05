@@ -2,6 +2,11 @@
 
 Here is where I showcase my current and recently completed projects.
 
+**Current**
+N/A
+
+**Recently Completed**
+P1 - 
 
 ### Jekyll Themes
 
